@@ -113,6 +113,7 @@ streamlit run streamlit_app.py
 
 ## Repo Structure
 
+```bash
 workforce-quality-governance/
 │
 ├── streamlit_app.py
@@ -122,7 +123,7 @@ workforce-quality-governance/
 │   ├── turnover_by_dept.csv
 │   └── salary_grid.csv
 └── README.md
-
+```
 
 ---
 
